@@ -49,7 +49,7 @@ Ensure you have the following installed:
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/Nityanand17/typeblaze.git
+   git clone https://github.com/gayathri-potluri/typeblaze.git
    ```
 
 2. Navigate to the project directory and install dependencies:  
